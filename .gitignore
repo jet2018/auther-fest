@@ -1,5 +1,5 @@
 .idea
 JETAUTH.iml
 db.sqlite3
-./live-static
+live-static
 .env
